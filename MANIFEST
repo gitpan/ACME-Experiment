@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/ACME/Experiment.pm
+lib/ACME/Experiment/A.pm
+lib/ACME/Experiment/B.pm
+t/01-require.t
